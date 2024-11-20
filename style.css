@@ -20,3 +20,10 @@ a:hover{
     color: red;
     text-decoration: underline;
 }
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+li{
+    margin: 10px 0;
+}
